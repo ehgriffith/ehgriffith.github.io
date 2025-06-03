@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Emily H Griffith's Website"
+title                    : " "
 title_separator          : "-"
 name                     : &name "Emily H Griffith"
 description              : &description "Professor of the Practice, NC State University"
@@ -23,7 +23,7 @@ repository               : "ehgriffith/ehgriffith.github.io"
 author:
   # Biographic information
   avatar           : "EmilyGriffithHeadshot.jpg"
-  name             : "Information"
+  name             : "Emily H Griffith"
   pronouns         : "she/her"  
   bio              : "Professor of the Practice, Department of Statistics"
   location         : "Raleigh, NC"

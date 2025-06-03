@@ -15,3 +15,5 @@ I'm also the Director of Consulting at our [Data Science and AI Academy](https:/
 My research interests include developing best practices for teaching statistical consulting and collaboration and for organizing these efforts in higher education. I also enjoy doing collaborative statsitical work in a wide variety of sciences.
 
 After earning my Ph.D. in statistics from NC State University in 2008, I was a postdoctoral researcher at the Patuxent Wildlife Research Center in Maryland. In 2009 I began working for the Criminal Justice Information Services Division in West Virginia, and in 2013 I returned to NC State as a professional track assistant professor. I was promoted to the associate level in 2018 and to Professor of the Practice in 2024. 
+
+This site is my summer project and it's TOTALLY under construction right now... if you've stumbled across it, please don't poke around too much!
